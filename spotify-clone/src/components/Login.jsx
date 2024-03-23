@@ -4,8 +4,8 @@ import styled from "styled-components";
 export default function Login() {
   const handleClick = () => {
     const client_id = process.env.REACT_APP_API_KEY;
-    const redirect_url = process.env.REACT_APP_REDIRECT_URL;
-    const api_url = process.env.REACT_APP_API_URL;
+    const redirect_url = 'https://project-spty-cln.netlify.app/';
+    const api_url = 'https://accounts.spotify.com/authorize';
     const scope = [
         "user-read-private",
         "user-read-email",
