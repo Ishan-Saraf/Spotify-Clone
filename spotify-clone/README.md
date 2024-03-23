@@ -15,4 +15,4 @@ This project is a Spotify clone built using React.js and Styled Components. It l
 
 # Demo
 
-<a href='https://project-spty-cln.netlify.app/' style="text-decoration: none">Click here for demo!</a>
+<a href='https://spotify-clone-api.netlify.app/' style="text-decoration: none">Click here for demo!</a>
